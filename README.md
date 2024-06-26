@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <HTML>
 <head>
 <Title> About Software Engineering
